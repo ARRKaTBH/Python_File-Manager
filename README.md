@@ -21,5 +21,5 @@ We all have a messy `Downloads` or `Desktop` folder. Manually sorting files by e
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Python_File-Manager.git](https://github.com/YOUR_USERNAME/Python_File-Manager.git)
+   git clone [](https://github.com/ARRKaTBH/Python_File-Manager.git)
    cd Python_File-Manager
