@@ -1,0 +1,28 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Project-specific local files
+# (Ignores your personal config so you don't accidentally share your private folder paths)
+config.json
+
+# Mac OS junk files
+.DS_Store
+.DS_Store?
+._*
+.Trashes
+
+# Windows OS junk files
+Thumbs.db
+ehthumbs.db
+
+# Editor / IDE settings (VS Code, PyCharm)
+.vscode/
+.idea/
